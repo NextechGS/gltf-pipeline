@@ -180,4 +180,4 @@ The documentation will be placed in the `doc` folder.
 
 ## Contributions
 
-Pull requests are appreciated!  Please use the same [Contributor License Agreement (CLA)](https://github.com/CesiumGS/cesium/blob/master/CONTRIBUTING.md) and [Coding Guide](https://github.com/CesiumGS/cesium/blob/master/Documentation/Contributors/CodingGuide/README.md) used for [Cesium](https://github.com/CesiumGS/cesium).
+Pull requests are appreciated!  Please use the same [Contributor License Agreement (CLA)](https://github.com/NextechGS/NextechJS/blob/master/CONTRIBUTING.md) and [Coding Guide](https://github.com/NextechGS/NextechJS/blob/master/Documentation/Contributors/CodingGuide/README.md) used for [NextechJS](https://github.com/NextechGS/NextechJS).
